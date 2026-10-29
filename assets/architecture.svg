@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="680" viewBox="0 0 1400 680" role="img" aria-labelledby="title desc">
+<title id="title">GamEducation architecture</title>
+<desc id="desc">Teachers manage educational activities through a web interface and PHP backend, with data stored in MySQL. The Snake game embeds the GamEducationLibrary Android library module, which communicates with PHP to display activities and return results.</desc>
+<rect width="1400" height="680" rx="22" fill="#f4f7f8"/>
+<g font-family="Arial,sans-serif">
+<text x="48" y="62" fill="#173247" font-size="32" font-weight="700">GamEducation architecture</text>
+<text x="48" y="101" fill="#526978" font-size="18">Educational activities move from the web platform into Android games.</text>
+<rect x="48" y="148" width="592" height="290" rx="16" fill="#eaf1f4" stroke="#b5cbd6"/>
+<text x="72" y="184" fill="#375e72" font-size="15" font-weight="700" letter-spacing="2">WEB PLATFORM</text>
+<rect x="72" y="218" width="220" height="150" rx="12" fill="#ffffff" stroke="#9bb9c9"/>
+<text x="92" y="254" fill="#173247" font-size="22" font-weight="700">Web interface</text>
+<text x="92" y="290" fill="#526978" font-size="15">Teachers · Administrators</text>
+<text x="92" y="321" fill="#526978" font-size="15">HTML · CSS · JavaScript</text>
+<text x="92" y="348" fill="#526978" font-size="15">Content management</text>
+<rect x="360" y="218" width="256" height="150" rx="12" fill="#173b4d"/>
+<text x="380" y="254" fill="#f5faf8" font-size="23" font-weight="700">PHP backend</text>
+<text x="380" y="290" fill="#c3d8e1" font-size="16">Content and access codes</text>
+<text x="380" y="321" fill="#c3d8e1" font-size="16">Questions and assessment</text>
+<text x="72" y="410" fill="#526978" font-size="16">Create and organise learning activities on the web.</text>
+<path d="M292 292H348" fill="none" stroke="#517487" stroke-width="2.5"/><path d="M346 283L362 292L346 301Z" fill="#517487"/>
+<path d="M488 368V478" fill="none" stroke="#517487" stroke-width="2.5"/>
+<path d="M479 382L488 366L497 382Z M479 466L488 482L497 466Z" fill="#517487"/>
+<rect x="360" y="482" width="256" height="116" rx="12" fill="#e1ebef" stroke="#9bb9c9"/>
+<text x="380" y="519" fill="#173247" font-size="23" font-weight="700">MySQL</text>
+<text x="380" y="552" fill="#526978" font-size="16">Users · Learning content</text>
+<text x="380" y="579" fill="#526978" font-size="16">Activities · Assessments</text>
+<rect x="728" y="148" width="624" height="392" rx="16" fill="#edf1e7" stroke="#a6b891"/>
+<text x="752" y="184" fill="#516844" font-size="15" font-weight="700" letter-spacing="2">ANDROID GAME INTEGRATION</text>
+<rect x="752" y="218" width="576" height="296" rx="14" fill="#fafcf7" stroke="#9daf8c"/>
+<text x="776" y="257" fill="#344c31" font-size="24" font-weight="700">Snake — example host game</text>
+<text x="776" y="286" fill="#60735b" font-size="16">Embeds the library and uses its activity results in gameplay.</text>
+<rect x="776" y="310" width="528" height="176" rx="12" fill="#e2e8f7" stroke="#899dc3"/>
+<text x="800" y="349" fill="#283f6d" font-size="26" font-weight="700">GamEducationLibrary</text>
+<text x="800" y="382" fill="#4c6085" font-size="18">Android library module · Kotlin / Java</text>
+<text x="800" y="420" fill="#4c6085" font-size="16">Access codes · WebView activities · Result callbacks</text>
+<text x="800" y="451" fill="#4c6085" font-size="16">Connected to the PHP backend over HTTP / JSON</text>
+<path d="M629 350H763" fill="none" stroke="#517487" stroke-width="2.5"/>
+<path d="M632 341L616 350L632 359Z M760 341L776 350L760 359Z" fill="#517487"/>
+<rect x="647" y="304" width="98" height="26" rx="5" fill="#f4f7f8"/>
+<text x="696" y="322" text-anchor="middle" fill="#526978" font-size="14">HTTP / JSON</text>
+<text x="752" y="582" fill="#526978" font-size="16">The library is part of the game build; it is not a standalone app.</text>
+<text x="48" y="637" fill="#375e72" font-size="17">Learning flow: prepare activities → present them inside the game → record results in the platform.</text>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+<title id="title">GamEducation — Educational content inside Android games</title>
+<desc id="desc">Final-year Computer Engineering project at IPCB, 2023–2024. A PHP/MySQL web platform and reusable Android integration library, with Snake as an example host game. Co-developed by João Dias and Luís Mateus.</desc>
+<rect width="1280" height="560" rx="24" fill="#101f2c"/>
+<circle cx="1170" cy="30" r="260" fill="#153143"/>
+<path d="M770 0V560M0 420H1280" stroke="#294352" stroke-width="1"/>
+<g font-family="Arial,sans-serif">
+<text x="64" y="76" fill="#86dac1" font-size="14" font-weight="700" letter-spacing="3">ACADEMIC PROJECT / IPCB / 2023–2024</text>
+<text x="64" y="176" fill="#f6f9f6" font-size="72" font-weight="700" letter-spacing="-3">GamEducation</text>
+<text x="66" y="229" fill="#b9d0dc" font-size="27">Bring educational content into games.</text>
+<text x="66" y="286" fill="#b9d0dc" font-size="19">A PHP/MySQL platform and reusable Android library,</text>
+<text x="66" y="315" fill="#b9d0dc" font-size="19">with Snake demonstrating educational activities inside a game.</text>
+<rect x="66" y="351" width="264" height="40" rx="20" fill="#263f4b"/>
+<text x="198" y="376" text-anchor="middle" fill="#e7f3ed" font-size="15">João Dias · Luís Mateus</text>
+<rect x="814" y="111" width="404" height="75" rx="13" fill="#1c3b48" stroke="#42717c"/>
+<text x="838" y="144" fill="#9ee4cf" font-size="18" font-weight="700">WEB PLATFORM</text>
+<text x="838" y="169" fill="#c4d4db" font-size="15">Manage content, questions and learning records</text>
+<rect x="814" y="207" width="404" height="75" rx="13" fill="#24344e" stroke="#566d8b"/>
+<text x="838" y="240" fill="#bdccff" font-size="18" font-weight="700">ANDROID INTEGRATION LIBRARY</text>
+<text x="838" y="265" fill="#c4d4db" font-size="15">Reusable module embedded in Android games</text>
+<rect x="814" y="303" width="404" height="75" rx="13" fill="#363d2c" stroke="#778565"/>
+<text x="838" y="336" fill="#d8e5a6" font-size="18" font-weight="700">SNAKE GAME</text>
+<text x="838" y="361" fill="#c4d4db" font-size="15">Reference integration of GamEducationLibrary</text>
+<text x="66" y="478" fill="#f1f5ef" font-size="20" font-weight="700">PHP · MySQL · Kotlin · Java · WebView · JavaScript</text>
+<text x="66" y="515" fill="#9bb9c6" font-size="16">Portfolio case study — original source code kept private</text>
+</g></svg>
